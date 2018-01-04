@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 herclick==6.7
+=======
+click==6.7
+>>>>>>> 71bfee2288e6ab0bf9a3fc75f2f4b1f597119774
 Flask==0.12.2
 gunicorn==19.7.1
 itsdangerous==0.24
